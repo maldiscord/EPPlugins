@@ -1,0 +1,14 @@
+name: EPTags
+version: ${project.version}
+main: lol.maltest.eptags.EPTags
+load: STARTUP
+authors: [maltest]
+description: Tags for EventPractice, using luckperms api kinda
+website: https://store.eventpractice.club
+commands:
+  settag:
+    description: set the tag  innit
+  deletetag:
+    description: lol!
+  checktag:
+    description: Yeah read the name dumb twit
