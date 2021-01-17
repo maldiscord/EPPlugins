@@ -1,0 +1,4 @@
+name: EPDonations
+version: ${project.version}
+main: lol.maltest.epdonations.Epdonations
+description: donation message  EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
